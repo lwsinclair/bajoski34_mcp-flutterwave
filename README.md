@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-bajoski34-mcp-flutterwave-badge.png)](https://mseep.ai/app/mcp-mirror-bajoski34-mcp-flutterwave)
+
 # mcp-flutterwave
 An [MCP (Model Context Protocol)](https://modelcontextprotocol.io) server that enables AI assistants to interact with Flutterwave, providing tools for confirming transactions, send failed hooks, and more.
 
